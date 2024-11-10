@@ -1,5 +1,5 @@
 # Single-Page-HTML-CV-Project
 
-Instructions to run the project:
+Click the below link to view the CV
 
-project page url:
+project page url: https://richiethimaiah13.github.io/Single-Page-HTML-CV-Project/
